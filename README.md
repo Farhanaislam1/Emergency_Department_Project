@@ -27,3 +27,6 @@
 ![Project Management Process Map](https://github.com/Farhanaislam1/Emergency_Department_Project/assets/165937850/8e6d47fb-4c11-43d5-8dc9-3390aaebb8cf)
 #### The process map visually represents the sequential steps involved in the patient journey from admission to discharge, specifically focusing on the workflow related to cholecystectomy and appendectomy procedures within the emergency department and operating room.
 https://lucid.app/lucidchart/e2e816e2-654a-4bfd-be85-551a522ad5e7/edit?viewport_loc=-569%2C-198%2C2303%2C1065%2C0_0&invitationId=inv_f3ed3538-2458-4149-a82c-ab23093cc611
+### Results:
+![image](https://github.com/user-attachments/assets/8188cf73-c8a0-4780-bddd-d9ce80296a4d)
+
